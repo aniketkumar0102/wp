@@ -30,7 +30,7 @@ if ( wp_is_mobile() ) {
 }
 
 // Used in the HTML title tag.
-$title       = __( 'Dashboard' );
+$title       = __( 'testing' );
 $parent_file = 'index.php';
 
 $help  = '<p>' . __( 'Welcome to your WordPress Dashboard!' ) . '</p>';
